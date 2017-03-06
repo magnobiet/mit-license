@@ -171,7 +171,9 @@ Current available themes:
 * solarized - [preview](http://jsbin.com/yimax/1) (by [@anmoljagetia](https://github.com/anmoljagetia))
 * willpower - [preview](http://jsbin.com/piheyicoyi/1) (by [@willpowerart](https://github.com/willpowerart))
 * rokkitt - [preview](http://jsbin.com/zudayiqeco/1) (by [@luizpicolo](https://github.com/luizpicolo))
+* mitserrat - [preview](http://jsbin.com/xeqekutuwe/1) (by [@WouterJanson](https://github.com/WouterJanson))
 * material - [preview](http://ahaasler.github.io/mit-license-material-theme/) (by [@ahaasler](https://github.com/ahaasler)). *Available colours: blue gray (default), red, pink, purple, deep purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown and grey. To use a specific colour, add it as a dash-separated suffix on the theme name, such as `material-deep-orange`.*
+* hmt-blue - [preview](https://jsbin.com/naqorar/) (by [@J2TeaM](https://github.com/J2TeaM))
 
 ## Formats & URLs
 
@@ -247,6 +249,9 @@ Hosting contributions:
 * [remy](https://github.com/remy) - 2011-2016 Apr...
 * [therebelrobot](https://github.com/therebelrobot) 1 month
 * [mkody](https://github.com/mkody) 2 months
+* [dan9186](https://github.com/dan9186) 1 year
+* Kristin Anthony 1 year
+* [zhengyi-yang](https://github.com/zhengyi-yang) 5 months
 * [you?](https://www.paypal.me/rem)
 
 ### 3. A lick of paint
